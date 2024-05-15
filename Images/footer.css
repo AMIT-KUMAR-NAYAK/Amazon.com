@@ -1,0 +1,19 @@
+footer
+{
+    position: relative;
+    top: 400px;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 500px;
+    color: white;
+    font: Arial;
+    background-color:rgb(7, 44, 75);
+    padding: 30px 0px 30px 0px;
+}
+.footer-1
+{
+    display: grid;
+
+}
